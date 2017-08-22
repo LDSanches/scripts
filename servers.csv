@@ -1,0 +1,5 @@
+tower;192.168.122.47;root;redhat
+cforms;192.168.122.207;root;smartvm
+node01;192.168.122.110;root;redhat
+rhel6-8;192.168.122.59;root;redhat
+rhel7-3;192.168.122.125;root;redhat
